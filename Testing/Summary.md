@@ -1,6 +1,6 @@
 # Testing #
 
-![Testing Pyramid](./testing-pyramid.png)
+![Testing Pyramid](./testing-pyramid.jpg)
 
 ### Contents ###
 
